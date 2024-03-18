@@ -14,7 +14,7 @@ Image:"Main Player" shows what it looks like.
 Monster Object 
 It is the object that protects the gems to be collected and it moves automatically in specific paths and they are three monsters, each of them protects two gems . 
 Image:"Main Monster" shows what it looks like. 
-### Gem
+### Gem [![Diamond](https://github.com/Hazem-Refai/Pac_Man-Game/assets/89510946/a2f3d3ce-8398-4396-a00a-600a5da24ea0)]
 The crystals to be collected are 8 in this level 
 Image:"Dimond" shows what it looks like. 
 ## Map
